@@ -14,14 +14,19 @@ Well don't worry Anna, as long as you say the right things, you'll be fine.
 The right things!? Like what?
 
 ### Narrator
-You need to sell yourself, be confident, not `arrogant` and give examples. Like: A good example that comes to mind. I'm particularly proud of. `Timekeeping` is important to me.
-> 不是很懂这段话，怎么断句的
+You need to sell yourself, be confident, not `arrogant` and give examples.  
+Like: A good example that `comes to mind`.  
+I'm particularly proud of...  
+`Timekeeping` is important to me.
+> arrogant 
+> comes to mind
 
 ### Anna
 Oh right. Thanks. Perhaps you can come with me?
 
 ### Narrator
 Sorry Anna, you're `on your own now` – but we'll be listening in. Look! You've just arrived. Good luck!
+> on your own now 全靠你自己了
 
 ### Paul
 Come in. Hello, I'm Paul, the Manager of Tip Top Trading. And you must be….?
@@ -31,7 +36,8 @@ It's Anna.
 
 ### Paul
 Yes, very good. Thanks for coming. Now `somewhere in this pile`, I've got your `CV`…
->CV 履历，简历(全写为 curriculum vitae)
+> pile 堆 
+> CV 履历，简历(全写为 curriculum vitae)
 
 
 ### Anna
@@ -75,7 +81,7 @@ I like it! "I'm particularly proud of" - Positive but not `boasting`. You're doi
 > I like it too :)
 
 ### Paul
-Very impressive – so you're a good planner Anna! We like organised people here... `ooops`, silly me. I seemed to have spilt tea over your CV.
+Very impressive – so you're a good planner Anna! We like organised people here... `ooops`, silly me. I seemed to have `spilt` tea over your CV.
 
 ### Anna
 Oh, do you need some help?
@@ -90,16 +96,21 @@ Also… timekeeping is important to me…
 "Timekeeping is important to me" – that's good!
 
 ### Anna
-I always try to complete my work on time. At university I never handed my assignments in late.
+I always try to complete my work `on time`. At university I never handed my `assignments` in late.
+> 这句翻译的好
+>on time
+>in time
+>hand in
 
 ### Paul
-That's good to hear. We like punctuality here…
+That's good to hear. We like `punctuality` here…
 
 ### Denise
 Excuse me Paul. Sorry it's a bit late – but I thought you might like a `biscuit` with your tea.
+> biscuit (英） cookie（美）
 
 ### Paul
-Hmm thanks….oh lovely, `custard` creams… mmm. Now Hannah, finally I wanted to ask you what exactly made you apply for this job at this company?
+Hmm thanks….oh lovely, `custard` creams… mmm. Now Hannah, finally I wanted to ask you what exactly made you `apply for` this job at this company?
 
 ### Anna
 Errrr… ooo… well. The reason I applied is….
@@ -111,4 +122,4 @@ Anna
 Errr…mmm…
 
 ### Narrator
-What's she going to say? How would you answer that? Join us next time to find out. Before we go, here's a reminder of some of the great lines Anna's used today… A good example that comes to mind I'm particularly proud of. Timekeeping is important to me. Until next time, bye bye!
+What's she going to say? How would you answer that? Join us next time to find out. Before we go, here's a reminder of some of the great lines Anna's used today… A good example that comes to mind I'm particularly proud of. Timekeeping is important to me. `Until next time`, bye bye!
