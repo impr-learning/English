@@ -2,9 +2,9 @@
 - 
 
 ### Narrator
-> Narrator n. (书、戏剧或电影中的)叙述者，讲述者;(电视节目中的)幕后解说员;旁白员
-
 Hi, I'm Neil. Thanks for joining me on English at Work - `a new series of programmes` set in an office, full of top tips to help you learn some useful business language which you could use in the workplace. In the next few minutes you can join me on an `introductory` tour around one of London's biggest `imitation` plastic fruit `manufacturers`, called Tip Top Trading. We're going to hear from some of the employees that work so hard to keep the business running `smoothly`. So come on then! Let's step into the office and `eavesdrop` on Tip Top Trading's possible newest `recruit`. I say 'possible' because she is still being interviewed for the job of `Sales Executive`…
+> Narrator n. (书、戏剧或电影中的)叙述者，讲述者;(电视节目中的)幕后解说员;旁白员
+> 
 > a series of 一系列;许多 
 > 
 > programmes n.计划;方案;活动安排;节目 
