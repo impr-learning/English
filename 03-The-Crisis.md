@@ -33,7 +33,7 @@ So what's the matter Denise?
 
 ### Denise
 You know the PowerPoint presentation?
-> presentation 演示；介绍（入职前Alan说到的词）
+> presentation 演示；介绍
 
 ### Paul
 The one we've been preparing for the last two months?
