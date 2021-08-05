@@ -27,6 +27,8 @@ Woman: Anything `off the trolley`, dears?
 
 > off the trolley 买点东西（从小推车上拿下来）
 
+> off trolley 丧失理智;举止不正常(形容人)
+
 Ron: [Holds up his mushed sandwiches] No, thanks, `I'm all set`. 
 > all set 预备好；准备好
 
@@ -36,7 +38,7 @@ Harry: We'll `take the lot`!
 Ron: Whoa!
 
 Harry: Bertie Bott's Every `Flavour` Beans?
-> flavour 食用香精;味道;风味;
+> flavour(英) 食用香精;味道;风味; flavor(美)
 
 Ron: They mean every flavour! There's chocolate and `peppermint`, and there's also `spinach`, `liver` and `tripe`. George `sweared` he got a `bogey-flavoured` one once!
 > peppermint n. 薄荷；薄荷糖
@@ -97,4 +99,4 @@ Hermione: Are you sure that's a real spell? Well, it's not very good, is it? Of 
 Ron: I'm...Ron Weasley. ..
 
 Hermione: Pleasure. You two better change into your `robes`. I expect we'll be arriving soon. You've got dirt on your nose, by the way, did you know? Just there. 
-> robes 长袍；法衣
+> robes 长袍；法衣；毕业礼服

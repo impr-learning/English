@@ -59,7 +59,10 @@ Uh huh.
 Nice to meet you. Have you worked here long?
 
 ### Tom
-Sorry, I'm quite busy right now – I've got a big deal just coming through. But let's get together sometime. Um... can you do lunch tomorrow?
+Sorry, I'm quite busy right now – I've got a big deal just `coming through`. But let's `get together` sometime. Um... can you do lunch tomorrow?
+> coming through
+
+> get together 聚在一起；组织；聚会
 
 ### Anna
 You want me to do lunch? Well, I'm not very -
@@ -72,7 +75,8 @@ Sorry, important client. Lunch tomorrow at 12.30 then?
 Well, OK then.
 
 ### Narrator
-Great Anna! You used some nice phrases to introduce yourself. It's a shame Tom thinks he's too important to do the same.
+Great Anna! You used some nice phrases to introduce yourself. It's a `shame` Tom thinks he's too important to do the same.
+> shame n. 羞愧；可惜；令人遗憾的事
 
 ### Anna
 I'm sure he's just busy. But I'm a bit worried about tomorrow!
@@ -110,7 +114,8 @@ You what?
 Tom asked me to have lunch ready for 12.30.
 
 ### Denise
-Did he indeed?
+Did he `indeed`?
+> indeed adv. 的确；强调肯定的陈述或答复;
 
 ### Tom
 Er, Anna.
@@ -122,7 +127,12 @@ Hi Tom!
 What are you doing?
 
 ### Anna
-Spring rolls, followed by crispy duck in black bean sauce.
+`Spring rolls`, followed by `crispy` duck in black `bean sauce`.
+> spring rolls 春卷
+
+> crispy adj. 脆的
+
+> bean sauce 豆豉
 
 ### Tom
 No, I mean, why are you cooking?
@@ -155,13 +165,17 @@ Well, never mind, it looks tasty.
 There's enough for everyone if you want some.
 
 ### Paul
-I think that's a splendid idea, we can have an office picnic!
+I think that's a `splendid` idea, we can have an office `picnic`!
+> splendid adj. 非常好的;壮观的;华丽的;
+
+> picnic 野炊
 
 ### Anna
 Yes!
 
 ### Paul
-Mmm, that sauce looks delicious.
+Mmm, that `sauce` looks delicious.
+> sauce n. 调味汁;酱;
 
 ### Anna
 Yes, it's my favourite.
