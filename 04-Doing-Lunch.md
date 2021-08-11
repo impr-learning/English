@@ -60,7 +60,7 @@ Nice to meet you. Have you worked here long?
 
 ### Tom
 Sorry, I'm quite busy right now – I've got a big deal just `coming through`. But let's `get together` sometime. Um... can you do lunch tomorrow?
-> coming through
+> coming through 即将到来的
 
 > get together 聚在一起；组织；聚会
 
