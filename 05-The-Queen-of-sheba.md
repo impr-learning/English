@@ -1,6 +1,6 @@
 05 The Queen of `Sheba`
 -
-> sheba
+> queen of sheba 希巴女王，又称示巴女王，是《圣经·旧约》中略用文字提及的人物，在传说中，她是一位阿拉伯半岛的女王，在与所罗门王见面后，慕其英明及刚毅，与所罗门王有过一场甜蜜的恋情，并孕有一子。
 
 Anna is still getting used to how things work in her new job. She turns to her colleagues to ask for help, but upsets Denise by sounding too `bossy`.
 > bossy adj. 好指挥人的;专横的
@@ -28,6 +28,8 @@ Everything's still so new to me. I keep needing to ask people for help!
 
 ### Narrator
 Well, that's only natural at the beginning. To ask people politely for help use the words would and could. You can also use the word please, but `don't make the mistake of thinking's enough to make what you say polite`.
+> 你也可以用“请”这个词，但不要错误地认为这足以使你所说的话变得有礼貌。
+> enough to 足够……可以
 
 ### Anna
 Er, ok.
@@ -48,6 +50,7 @@ Yes of course.
 Would you be able to print out a file for me? It's a document on CBL – `Convincing Bananas Limited` – they're one of our suppliers. The file should
 be on the system and could I have it in the next ten minutes please, as they're on their way here for a meeting?
 > Convincing Bananas Limited
+> Limited 有限公司
 
 ### Anna
 Yes. Oh no, I've no idea how to find it! Tom...?!
@@ -79,7 +82,7 @@ Thank you.
 
 ### Denise
 (on the phone) Who does that girl think she is?... Anna... new girl... I told you about her... yes with the `saucepans`, that's the one. She's only been here five minutes and she's already acting like the Queen of Sheba... 
-> saucepans 深煮锅
+> saucepans 深煮锅  （结合上一节语境）
 
 ### Anna
 Oh and Denise, please send it to me within five minutes, Paul needs it soon. Thank you.
