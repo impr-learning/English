@@ -1,5 +1,6 @@
 06 Double-booked
 -
+> Double-booked 重复预订
 
 It's `chaos` at Tip Top Trading. Tom is in a panic and needs help! He has arranged more meetings than he can `cope with` and is going to have to face some unhappy clients. Anna decides to `step in` and help.
 > chaos n.混乱;杂乱;紊乱
@@ -27,11 +28,13 @@ Transcript
 
 ### Denise
 (on the phone) ... And Margery said: 'I don't think I've ever seen a vegetable `quite that size` before...'
-> 相当大
+> quite that size 相当大（quite a size)
 
 ### Paul
 Where's that `hole-punch`?!
 > hole-punch n.打孔机
+
+> punch v.给…打孔 n.穿孔器;冲床
 
 ### Narrator
 Ah, business as usual in the offices of Tip Top Trading.
@@ -40,7 +43,11 @@ Ah, business as usual in the offices of Tip Top Trading.
 Oh `for goodness sake`! What a disaster! I can't believe it!
 > sake 目的;利益;缘故;理由
 
+> goodness 上帝
+
 > for goodness sake 看在上帝的份儿上
+
+> for my sake 看在我的份儿上
 
 
 ### Narrator
@@ -58,6 +65,7 @@ Yes!
 
 ### Narrator
 Use phrases like 'Is there anything I can do?' 'Let me help!' or, to be more informal, you can say, 'Can I give you a hand?' or 'Give me a shout if you need anything!'
+> informal 非正式的;不拘礼节的;友好随便的;
 
 ### Anna
 Right.
@@ -125,6 +133,9 @@ Okay.
 
 ### Tom
 You talk to Mr Lime, he's from a company called Citrus Ventures. They own hundreds of juice bars.
+> lime 石灰;酸橙;
+
+> juice bars 果汁吧；饮料店
 
 ### Denise
 Are you sure that's a good idea Tom?
