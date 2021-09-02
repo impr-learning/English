@@ -23,10 +23,12 @@ I promise you, it won't happen again.
 Transcript
 
 ### Narrator
-Ah hello! Welcome back to Tip Top Trading – the UK's leading `wholesaler` of imitation fruit. Today you're joining us in the middle of the action! Anna is with an important client Mr Lime, from Citrus Ventures. He's angry and she'll have to calm him down. She could `cope` brilliantly here or this could be a `horrible` mess!
+Ah hello! Welcome back to Tip Top Trading – the UK's leading `wholesaler` of imitation fruit. Today you're joining us in the middle of the action! Anna is with an important client Mr Lime, from Citrus Ventures. He's angry and she'll have to calm him down. She could `cope` brilliantly here `or` this could be a `horrible` mess!
 > wholesaler n.批发商
 
-> cope 对抗，处理
+> cope 对抗，处理（等同于 deal with）
+
+> or （这里是否则的意思）
 
 > horrible adj.极坏的;恐怖的;
 
@@ -35,13 +37,17 @@ Ah hello! Welcome back to Tip Top Trading – the UK's leading `wholesaler` of i
 Well Mr Lime, how can I help you?
 
 ### Mr Lime
-On Monday I was meant to receive 8,000 plastic grapefruit from Tip Top Trading.
+On Monday I `was meant to` receive 8,000 plastic grapefruit from Tip Top Trading.
+> be meant to 本应该
+
+> meant adj.原本打算的;本应的;
 
 ### Anna
 Yes.
 
 ### Mr Lime
-The delivery was made on Tuesday.
+The `delivery` was made on Tuesday.
+> delivery v.传送;交付;分娩;递送;演讲方式;表演风格
 
 ### Anna
 Oh dear.
@@ -87,6 +93,7 @@ Good. Thank you.
 
 ### Anna
 And we could include some of our `latest-edition` imitation oranges to make up for the inconvenience.
+> latest-edition 最新版
 
 ### Mr Lime
 Oh! Well, that would be nice!
@@ -117,6 +124,8 @@ Go on...
 ### Anna
 We're about to `unveil` a new `Imperial Lemon`.
 > unveil vt.揭幕
+
+> veil 面纱
 
 > imperial 帝国的; 皇帝的
 
@@ -166,7 +175,8 @@ Yes.
 Well I look forward to working with you.
 
 ### Narrator
-What a success! Mr Lime has come away a very happy customer! Here are the phrases Anna used while apologising:
+What a success! `Mr Lime has come away a very happy customer!` Here are the phrases Anna used while apologising:
+> Mr Lime 高兴地离开了
 
 I'm really sorry to hear that, Mr Lime.
 
