@@ -89,7 +89,7 @@ And then I'm going to move on to discuss…
 And finally...
 
 But that's just the beginning, now she's got to get through the rest of the `pitch` – how will that go?
-> pitch v.抛；投  n.球场
+> pitch v.抛；投  n.球场；推销
 
 > the rest of pitch 球场的剩余部分（下面的表现？）
 
